@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "golf-poc",
   "private": true,
   "scripts": {
     "build": "turbo build",
